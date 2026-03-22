@@ -4,7 +4,7 @@
 
 ### DevOps & Cloud Engineer · Full Stack Developer · Cybersecurity Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineering+Professional;Full+Stack+Developer+(Laravel+%7C+Django+%7C+React);Linux+Systems+%26+Server+Administration;Building+Scalable+Cloud+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineering+Professional;FFull+Stack+Developer+(Laravel+%7C+Django+%7C+React);Linux+Systems+%26+Server+Administration;Building+Scalable+Cloud+Infrastructure)](https://git.io/typing-svg)
 
 </div>
 
