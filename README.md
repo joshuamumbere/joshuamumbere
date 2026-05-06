@@ -93,13 +93,6 @@ I'm a dedicated **DevOps and Cloud Engineering professional** based in Uganda ğŸ
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuamumbere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuamumbere&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuamumbere&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
