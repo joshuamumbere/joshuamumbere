@@ -67,15 +67,39 @@ I'm a **DevOps and Cloud Engineering professional** based in Uganda 🇺🇬, fo
 
 ## Most Used Languages
 
-> **Automatically ranked by bytes of code across all public repositories.**
+> Automatically ranked by bytes of code across all public repositories — updates with every push.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuamumbere&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/joshuamumbere)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuamumbere&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&include_all_commits=true&card_width=500)](https://github.com/joshuamumbere?tab=repositories)
 
 </div>
 
-> The chart above uses `size_weight=0.5&count_weight=0.5` — a balanced blend of raw byte size and frequency of use — so languages that appear often in many repos rank higher, not just files with massive line counts.
+<details>
+<summary>💡 Not showing? Click here</summary>
+
+If the chart above is blank, it means your repositories are **private**. GitHub Stats can only read **public** repos without a token.
+
+**Two ways to fix this:**
+
+**Option 1 — Make key repos public** (recommended)
+Go to each repo → Settings → scroll to "Danger Zone" → Change visibility → Public.
+
+**Option 2 — Self-host github-readme-stats with your own token**
+Follow the [official deployment guide](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_fr.md#deploy-on-your-own-vercel-instance) to deploy to Vercel with a `PAT_1` secret. This lets the stats card read private repos.
+
+In the meantime, here's a manually curated breakdown of your primary languages:
+
+| Language | Primary Use |
+|----------|-------------|
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP** | Laravel & CodeIgniter backends |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python** | Django, Flask APIs |
+| ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript** | React frontends |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) **Dart** | Flutter mobile apps |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML/CSS** | Blade templates, Sass |
+| ![Shell](https://img.shields.io/badge/Shell-89E051?style=flat&logo=gnu-bash&logoColor=black) **Shell** | DevOps scripts, server automation |
+
+</details>
 
 ---
 
