@@ -110,36 +110,6 @@ DevOps and Cloud Engineering professional with expertise in designing, deploying
 
 </div>
 
-<details>
-<summary><strong>📌 Private Repositories Notice</strong></summary>
-
-GitHub Stats API displays only **public repositories** by default. If the chart above appears incomplete:
-
-**✅ Solution A: Make key repositories public**
-- Navigate to repository → Settings → Visibility → Change to Public
-- This is the recommended approach for showcasing your best work
-
-**✅ Solution B: Deploy with GitHub Personal Access Token**
-- Fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Deploy to your own Vercel instance with `PAT_1` environment variable
-- This allows the stats card to read private repositories without exposing them publicly
-- [Detailed setup guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
-
-**Estimated Language Breakdown (from known projects):**
-
-| Language | Projects | Usage Pattern |
-|----------|----------|---------------|
-| **PHP** | 8+ repos | Laravel & CodeIgniter backends, Blade templating |
-| **Python** | 6+ repos | Django/Flask APIs, automation scripts, data processing |
-| **JavaScript** | 12+ repos | React frontends, Node.js utilities, build tools |
-| **Dart** | 4+ repos | Flutter mobile applications |
-| **Shell/Bash** | 10+ repos | DevOps scripts, server automation, CI/CD workflows |
-| **HTML/CSS** | 12+ repos | Frontend templates, responsive layouts, Sass styling |
-
-</details>
-
----
-
 ## 🏆 Professional Highlights
 
 ### What I Build
@@ -151,17 +121,6 @@ GitHub Stats API displays only **public repositories** by default. If the chart 
 | **Mobile Applications** | Flutter, Dart, Android | Cross-platform iOS/Android apps, Native integrations |
 | **Frontend Development** | React, JavaScript, Sass | Single-page applications, Responsive UI, State management |
 | **Security & Hardening** | Linux, SSH, SSL/TLS, Firewalls | System hardening, Access control, Vulnerability management |
-
-### Key Achievements
-
-✅ Designed and deployed **scalable cloud infrastructure** serving production workloads
-✅ Automated **CI/CD pipelines** reducing deployment time by 60%+
-✅ Built **cross-platform mobile applications** reaching 10,000+ users
-✅ Implemented **Linux hardening** and security best practices across infrastructure
-✅ Developed **full-stack applications** from architecture to deployment
-✅ Mentored junior developers in DevOps and cloud engineering practices
-
----
 
 ## 📊 GitHub Activity & Insights
 
@@ -266,7 +225,6 @@ GitHub Stats API displays only **public repositories** by default. If the chart 
 
 ### "Infrastructure is not just servers — it's the foundation that lets ideas scale. Code is not just syntax — it's the bridge between vision and reality."
 
-**Last Updated:** Automatically refreshed via GitHub API  
 **Location:** 🇺🇬 Uganda  
 **Availability:** Open to remote opportunities and collaborations
 
